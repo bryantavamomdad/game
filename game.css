@@ -1,0 +1,19 @@
+.play {
+  outline-color: blue;
+  background-color: blue; 
+  color: aliceblue; 
+  height: 100px; 
+  top: 450px; 
+  left: 450px; 
+  width: 100px;
+  transition: 0.15s;
+}
+
+
+.play:hover {
+  opacity:0.8;
+}
+
+.play:active {
+  opacity:0.5;
+}
